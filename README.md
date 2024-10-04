@@ -37,6 +37,18 @@ This repository documents my progress through the **Complete Web Development Boo
 
 ---
 
+## 📝 Work I´ve done so far
+- This repository root: [Link](https://sorenkazam.github.io/Udemy-The-Complete-2024-Web-Development-Bootcamp/)
+- Movie Ranking: [Link](https://sorenkazam.github.io/Udemy-The-Complete-2024-Web-Development-Bootcamp/2.4%20Movie%20Ranking%20Project/)
+- Birthday Invite: [Link](https://sorenkazam.github.io/Udemy-The-Complete-2024-Web-Development-Bootcamp/3.4%20Birthday%20Invite%20Project)
+- Portfolio Website: [Link](https://sorenkazam.github.io/Udemy-The-Complete-2024-Web-Development-Bootcamp/4.3%20HTML%20Porfolio%20Project)
+- Colour Vocab Website: [Link](https://sorenkazam.github.io/Udemy-The-Complete-2024-Web-Development-Bootcamp/5.4%2BColor%2BVocab%2BProject)
+- Motivational Poster Website: [Link](https://sorenkazam.github.io/Udemy-The-Complete-2024-Web-Development-Bootcamp/6.4%20Motivation%20Meme%20Project)
+- CSS Flag: [Link](https://sorenkazam.github.io/Udemy-The-Complete-2024-Web-Development-Bootcamp/7.3%20CSS%20Flag%20Project)
+- CSS Flag 2 (My Flag): [Link](https://sorenkazam.github.io/Udemy-The-Complete-2024-Web-Development-Bootcamp/7.3%20CSS%20Flag%20Project/myFlag)
+
+---
+
 ## 🌟 Why I Chose This Course
 - I want to build fully functional websites and web apps from scratch 🖥️
 - I'm excited to create a **portfolio** with over 32 projects to showcase my skills
