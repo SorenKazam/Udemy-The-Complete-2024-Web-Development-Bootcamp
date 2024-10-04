@@ -11,6 +11,7 @@ This repository documents my progress through the **Complete Web Development Boo
 - **Video Content**: 61.5 hours 🎥
 - **Projects**: I'll be building 32+ real-world websites 🌍
 - **Course Rating**: ⭐ 4.8 (from 150,000+ reviews)
+- **Course Link**: [Udemy - The complete web development bootcamp by Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 ---
 
