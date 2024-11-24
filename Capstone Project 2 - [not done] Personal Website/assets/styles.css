@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: "Nunito", sans-serif;
+}
+
+/* Tamanhos base recomendados */
+html {
+  font-size: 16px; /* Tamanho base, 1rem = 16px */
+}
+
+/* Títulos principais */
+h1 {
+  font-size: 2.5rem; /* ~40px */
+  font-weight: 700; /* Peso forte para destaque */
+  margin: 20px;
+}
+
+h2 {
+  font-size: 2rem; /* ~32px */
+  font-weight: 600; /* Menos forte que h1 */
+  margin: 15px;
+}
+
+h3 {
+  font-size: 1.75rem; /* ~28px */
+  font-weight: 600;
+}
+
+h4 {
+  font-size: 1.5rem; /* ~24px */
+  font-weight: 500;
+}
+
+h5 {
+  font-size: 1.25rem; /* ~20px */
+  font-weight: 500;
+}
+
+h6 {
+  font-size: 1rem; /* ~16px */
+  font-weight: 400;
+}
+
+/* Texto padrão */
+p,
+li {
+  font-size: 1rem; /* 16px para texto principal */
+  line-height: 1.6; /* Espaçamento entre linhas confortável */
+  margin: 10px;
+}
+
+/* Links */
+a {
+  font-size: 1rem; /* Igual ao texto principal */
+  font-weight: 500;
+  text-decoration: underline; /* Opcional para maior visibilidade */
+}
+
+/* Pequenos detalhes ou subtítulos */
+small {
+  font-size: 0.875rem; /* ~14px */
+  line-height: 1.4;
+}
+
+/* Botões */
+button {
+  font-size: 1rem; /* ~16px, fácil de clicar */
+  font-weight: 600; /* Geralmente um pouco mais forte */
+}
+
+/* Legendas ou textos menores */
+.caption {
+  font-size: 0.75rem; /* ~12px */
+  color: gray;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+#navbar {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(214, 214, 214);
+  border-radius: 15px;
+  padding: 20px 40px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+#navbar > .logo > a > img {
+  width: 100px;
+  border-radius: 8px;
+}
+
+#navbar > .links {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+
+#navbar > .links > a {
+  text-decoration: none;
+  color: rgb(65, 65, 65);
+}
+
+#navbar > .links > a:hover {
+  text-decoration: underline;
+}
+
+section {
+  background-color: #1c7ff2;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 90px;
+  border-radius: 20px;
+}
