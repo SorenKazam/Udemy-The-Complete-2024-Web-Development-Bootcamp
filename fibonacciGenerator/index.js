@@ -1,15 +1,16 @@
 function fibonacciGenerator(n) {
-  let numbers = [];
+  if (n <= 0) return [];
+  if (n === 1) return [0];
+  if (n === 2) return [0, 1];
 
-  for (i = 0; i < n; i++) {
-    if(n == 0){
-        console.log(numbers)
-    }
-    numbers.push(i);
+  let fib = [0, 1];
+
+  for (let i = 2; i < n; i++) {
+    fib.push(fib[i - 1] + fib[i - 2]);
   }
-  console.log(numbers);
+
+  console.log(fib);
 }
+fibonacciGenerator(10);
 
-fibonacciGenerator(1);
-
-// [0, 1, 2, 3, ...]
+/* 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144 */
