@@ -1,0 +1,66 @@
+/* GENERAL RESET */
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* FOOTER */
+footer#footer {
+  width: 100vw;
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+/* NAVIGATION BAR */
+nav#navbar {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+  background-color: aquamarine;
+  gap: 30px;
+  flex-wrap: wrap;
+  box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.301);
+}
+
+nav#navbar > a {
+  text-decoration: none;
+  color: black;
+}
+
+nav#navbar > a:hover {
+  text-decoration: underline;
+}
+
+/* WEBSITE MAIN SECTION */
+main#app {
+  display: flex;
+  width: 100vw;
+  flex-direction: column;
+  background-color: bisque;
+  align-items: center;
+}
+
+section.page-title {
+  display: flex;
+  width: 100%;
+  background-color: rgb(255, 202, 137);
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+section.content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  max-width: 900px;
+  padding: 20px 0px;
+}
