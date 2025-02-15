@@ -1,3 +1,7 @@
+# example directories
 Story/
 Test/
 quakejs/
+
+# to ignore every node_module directory
+**/node_modules
