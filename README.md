@@ -4,7 +4,9 @@ This repository documents my progress through the **Complete Web Development Boo
 
 ---
 
+
 ## 🏆 Course Overview
+![Dr -Angela-Yu](https://github.com/user-attachments/assets/e83a4f3c-6b19-4791-a4cd-683b94d953d5)
 - **Instructor**: Dr. Angela Yu, Lead Developer and Instructor
 - **Platform**: Udemy
 - **Certificate**: I'll receive a certificate upon completion! 🏅
